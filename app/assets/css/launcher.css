@@ -2970,7 +2970,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* User profile avatar container. */
 #avatarContainer {
-    border-radius: 20px;
+    border-radius: 21px;
     border: 2px solid #cad7e1;
     box-sizing: border-box;
     background: rgba(1, 2, 1, 0.5);
